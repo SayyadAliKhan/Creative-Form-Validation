@@ -1,0 +1,14 @@
+{
+  "name": "creative_form",
+  "version": "1.0.0",
+  "description": "Creative Form Validation and UI with CSS transitions & progress bar",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "author": "Sayyad Ali Khan",
+  "license": "",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
